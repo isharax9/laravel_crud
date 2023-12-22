@@ -8,6 +8,16 @@
 </head>
 <body>
     <h1>Product</h1>
-    <div>index</div>
+    <div>
+        <table border="1">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Qty</th>
+                <th>Price</th>
+
+            </tr>
+    </div>
 </body>
 </html>
